@@ -1,0 +1,23 @@
+
+{                                                                                
+  "name": "be.elab.charleroifort",                              
+  "displayName": "Charleroi 1666",                        
+  "version": "0.0.1",                         
+  "unity": "2018.1",                             
+  "unityRelease": "",                             
+  "description": "To use as anchor for AR Quai 10 application and game. Alphonse Darville, Charleroi, Plan de la forteresse, 1666.",                         
+  "keywords": ["Script","Tool"],                       
+  "dependencies":{},     
+  "relatedPackages":{},     
+  "samples" : [],     
+  "author" : {
+"name":"Eloi Stree",
+"mail":"",
+"url":""},     
+  "repository":{
+"type":"Git",
+"url":"https://github.com/EloiStree/2024_09_25_Charleroi1666.git",
+"footprint":"",
+"revision":""},     
+  "category": "Script"                   
+} 
